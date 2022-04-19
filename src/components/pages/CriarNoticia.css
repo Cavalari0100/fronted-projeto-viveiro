@@ -1,0 +1,40 @@
+.login {
+    padding: 4rem;
+    background: #fff;
+}
+
+h1 {
+    text-align: center;
+}
+
+.login__container {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    max-width: 1120px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.teste {
+    padding: 35rem;
+}
+
+.login__box {
+    padding: 10rem;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    max-width: 1000px;
+    height: 500px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
